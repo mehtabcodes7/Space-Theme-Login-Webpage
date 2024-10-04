@@ -1,5 +1,5 @@
 
-# Space Theme Loing Page
+# Space Theme Login Page
 Making a cool space-themed login page using HTML, CSS, and JavaScript.
 
 
