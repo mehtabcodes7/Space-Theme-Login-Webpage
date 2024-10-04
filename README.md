@@ -1,5 +1,5 @@
 
-# Space Theme Login Page
+# Cosmic Login Page
 Making a cool space-themed login page using HTML, CSS, and JavaScript.
 
 
